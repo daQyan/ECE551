@@ -1,0 +1,17 @@
+#error
+cyoa-step4 simple
+cyoa-step2 story1
+cyoa-step2  
+cyoa-step2  23
+cyoa-step2 story1 story2
+cyoa-step1 story2/page1.txt
+cyoa-step4 4story_with_two
+
+#success
+cyoa-step4 weirdSty
+cyoa-step4 loop
+cyoa-step4 badstory
+cyoa-step3 weirdSty
+cyoa-step3 loop
+cyoa-step3 badstory
+cyoa-step3 winpage

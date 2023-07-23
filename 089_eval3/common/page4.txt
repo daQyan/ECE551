@@ -1,0 +1,4 @@
+5: I point to myself
+6: I point to 1
+#
+I am 4

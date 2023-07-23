@@ -1,0 +1,3 @@
+animal:wolf
+animal:dragon
+animal:rabbit

@@ -1,0 +1,16 @@
+#error
+printCountries no_comma.csv
+printCountries no_data.csv
+printDailyMax population.csv
+
+
+#success
+
+printCountries extra_abc.csv
+printCountries extra_space.csv
+printCountries population.csv
+printCountries no_switch.csv
+printDailyMax population.csv daily_small.csv
+printCumulative population.csv daily_small.csv
+printRunningAvg population.csv daily_small.csv
+printDailyMax population.csv daily_small.csv

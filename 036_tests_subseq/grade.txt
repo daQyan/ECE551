@@ -1,0 +1,83 @@
+Grading at 09/18/2022:12:23:13.852412
+For commit ID 95e745ac81fae3375e419a7b21263981a222cfcd
+Grading at Sun Sep 18 20:23:13 CST 2022
+**Testing broken implementation 10 **
+-------------------------------------
+
+nice 
+nice 
+nice 
+nice 
+opps
+
+**Testing broken implementation 11 **
+-------------------------------------
+
+opps
+
+**Testing broken implementation 1 **
+-------------------------------------
+
+nice 
+nice 
+opps
+
+**Testing broken implementation 2 **
+-------------------------------------
+
+nice 
+opps
+
+**Testing broken implementation 3 **
+-------------------------------------
+
+opps
+
+**Testing broken implementation 4 **
+-------------------------------------
+
+nice 
+nice 
+nice 
+opps
+
+**Testing broken implementation 5 **
+-------------------------------------
+
+nice 
+opps
+
+**Testing broken implementation 6 **
+-------------------------------------
+
+opps
+
+**Testing broken implementation 7 **
+-------------------------------------
+
+opps
+
+**Testing broken implementation 8 **
+-------------------------------------
+
+nice 
+opps
+
+**Testing broken implementation 9 **
+-------------------------------------
+
+nice 
+opps
+
+**Testing correct implementation **
+-------------------------------------
+
+nice 
+nice 
+nice 
+nice 
+nice 
+
+All test programs were handled correctly
+
+Overall Grade: PASSED

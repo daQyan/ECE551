@@ -1,0 +1,5 @@
+6: go 6
+8: LOSE
+#
+Your famed sword Ice becomes embedded in the dragon's neck scales, and the
+dragon rolls over, crushing you.

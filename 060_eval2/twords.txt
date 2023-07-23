@@ -1,0 +1,7 @@
+animal:aaaaaaa
+animal:bbbbbbb
+animal:cccccccc
+animal:dddddddd
+animal:eeeeeeee
+::  
+adjective:peculiar
